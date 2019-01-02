@@ -12,6 +12,7 @@ void add_two_sums();
 int main() {
     using std::cout;
     using std::endl;
+    add_two_sums();
     return 0;
 }
 void add_two_sums(){

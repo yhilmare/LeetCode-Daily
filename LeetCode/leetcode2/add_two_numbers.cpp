@@ -124,21 +124,7 @@ digits_linked_list operator+(const digits_linked_list &sum1, const digits_linked
             carry = false;
         }
     }else if (!p && q){
-        for (linked_list *tmp = q; tmp; tmp = tmp->next){
-            int tmp_1 = tmp->val;
-            if (carry){
-                tmp_1 += 1;
-            }
-            if (tmp_1 >= 10){
-                carry = true;
-                vec.push_back(tmp_1 % 10);
-            }else{
-                carry = false;
-                vec.push_back(tmp_1);
-            }
-        }
-    }else{
-        for (linked_list *tmp = p; tmp; tmp = tmp->next){
+        for (linked_list *tmp = (q == NULL ? p : q); tmp; tmp = tmp->next){
             int tmp_1 = tmp->val;
             if (carry){
                 tmp_1 += 1;
