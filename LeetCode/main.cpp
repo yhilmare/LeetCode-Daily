@@ -8,16 +8,32 @@
 #include "leetcode3/find_longest_string.h"
 #include <cstring>
 #include <cmath>
-#include <bitset>
+#include "leetcode4/median_two_arrays.h"
+#include "leetcode5/longest_palindromic_string.h"
 
 void twoSum();
 void add_two_sums();
+void longest_substring_without_repeating_characters();
+void median_of_two_sorted_array();
+void longest_palindrome();
+
 int main() {
     using namespace std;
-
-    cout << pure_lengthOfLongestSubstring("dvdf") << endl;
-
     return 0;
+}
+void longest_palindrome(){
+    using namespace std;
+    cout << longestPalindrome("abcdbbfcba") << endl;
+}
+void median_of_two_sorted_array(){
+    using namespace std;
+    vector<int> nums1 = {1,2};
+    vector<int> nums2 = {3,4};
+    cout << findMedianSortedArrays(nums1, nums2) << endl;
+}
+void longest_substring_without_repeating_characters(){
+    using namespace std;
+    cout << pure_lengthOfLongestSubstring("dvdf") << endl;
 }
 void add_two_sums(){
     digits_linked_list num1(9);

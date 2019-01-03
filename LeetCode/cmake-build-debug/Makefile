@@ -203,6 +203,60 @@ leetcode3/find_longest_string.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.s
 .PHONY : leetcode3/find_longest_string.cpp.s
 
+leetcode4/median_two_arrays.obj: leetcode4/median_two_arrays.cpp.obj
+
+.PHONY : leetcode4/median_two_arrays.obj
+
+# target to build an object file
+leetcode4/median_two_arrays.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.obj
+.PHONY : leetcode4/median_two_arrays.cpp.obj
+
+leetcode4/median_two_arrays.i: leetcode4/median_two_arrays.cpp.i
+
+.PHONY : leetcode4/median_two_arrays.i
+
+# target to preprocess a source file
+leetcode4/median_two_arrays.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.i
+.PHONY : leetcode4/median_two_arrays.cpp.i
+
+leetcode4/median_two_arrays.s: leetcode4/median_two_arrays.cpp.s
+
+.PHONY : leetcode4/median_two_arrays.s
+
+# target to generate assembly for a file
+leetcode4/median_two_arrays.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.s
+.PHONY : leetcode4/median_two_arrays.cpp.s
+
+leetcode5/longest_palindromic_string.obj: leetcode5/longest_palindromic_string.cpp.obj
+
+.PHONY : leetcode5/longest_palindromic_string.obj
+
+# target to build an object file
+leetcode5/longest_palindromic_string.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.obj
+.PHONY : leetcode5/longest_palindromic_string.cpp.obj
+
+leetcode5/longest_palindromic_string.i: leetcode5/longest_palindromic_string.cpp.i
+
+.PHONY : leetcode5/longest_palindromic_string.i
+
+# target to preprocess a source file
+leetcode5/longest_palindromic_string.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.i
+.PHONY : leetcode5/longest_palindromic_string.cpp.i
+
+leetcode5/longest_palindromic_string.s: leetcode5/longest_palindromic_string.cpp.s
+
+.PHONY : leetcode5/longest_palindromic_string.s
+
+# target to generate assembly for a file
+leetcode5/longest_palindromic_string.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.s
+.PHONY : leetcode5/longest_palindromic_string.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -248,6 +302,12 @@ help:
 	@echo ... leetcode3/find_longest_string.obj
 	@echo ... leetcode3/find_longest_string.i
 	@echo ... leetcode3/find_longest_string.s
+	@echo ... leetcode4/median_two_arrays.obj
+	@echo ... leetcode4/median_two_arrays.i
+	@echo ... leetcode4/median_two_arrays.s
+	@echo ... leetcode5/longest_palindromic_string.obj
+	@echo ... leetcode5/longest_palindromic_string.i
+	@echo ... leetcode5/longest_palindromic_string.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

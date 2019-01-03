@@ -108,12 +108,40 @@ CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\repos\LeetCode-Daily\LeetCode\leetcode3\find_longest_string.cpp -o CMakeFiles\LeetCode.dir\leetcode3\find_longest_string.cpp.s
 
+CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.obj: ../leetcode4/median_two_arrays.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\leetcode4\median_two_arrays.cpp.obj -c F:\repos\LeetCode-Daily\LeetCode\leetcode4\median_two_arrays.cpp
+
+CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\repos\LeetCode-Daily\LeetCode\leetcode4\median_two_arrays.cpp > CMakeFiles\LeetCode.dir\leetcode4\median_two_arrays.cpp.i
+
+CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\repos\LeetCode-Daily\LeetCode\leetcode4\median_two_arrays.cpp -o CMakeFiles\LeetCode.dir\leetcode4\median_two_arrays.cpp.s
+
+CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.obj: ../leetcode5/longest_palindromic_string.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\leetcode5\longest_palindromic_string.cpp.obj -c F:\repos\LeetCode-Daily\LeetCode\leetcode5\longest_palindromic_string.cpp
+
+CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\repos\LeetCode-Daily\LeetCode\leetcode5\longest_palindromic_string.cpp > CMakeFiles\LeetCode.dir\leetcode5\longest_palindromic_string.cpp.i
+
+CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\repos\LeetCode-Daily\LeetCode\leetcode5\longest_palindromic_string.cpp -o CMakeFiles\LeetCode.dir\leetcode5\longest_palindromic_string.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
 "CMakeFiles/LeetCode.dir/leetcode1/two_sums.cpp.obj" \
 "CMakeFiles/LeetCode.dir/leetcode2/add_two_numbers.cpp.obj" \
-"CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.obj"
+"CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.obj" \
+"CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.obj" \
+"CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -122,11 +150,13 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/main.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode1/two_sums.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode2/add_two_numbers.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
