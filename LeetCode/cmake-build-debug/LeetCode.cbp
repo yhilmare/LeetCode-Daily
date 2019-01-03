@@ -92,6 +92,12 @@
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode3/find_longest_string.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode3/find_longest_string.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/main.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

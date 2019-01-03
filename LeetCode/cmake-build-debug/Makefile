@@ -176,6 +176,33 @@ leetcode2/add_two_numbers.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode2/add_two_numbers.cpp.s
 .PHONY : leetcode2/add_two_numbers.cpp.s
 
+leetcode3/find_longest_string.obj: leetcode3/find_longest_string.cpp.obj
+
+.PHONY : leetcode3/find_longest_string.obj
+
+# target to build an object file
+leetcode3/find_longest_string.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.obj
+.PHONY : leetcode3/find_longest_string.cpp.obj
+
+leetcode3/find_longest_string.i: leetcode3/find_longest_string.cpp.i
+
+.PHONY : leetcode3/find_longest_string.i
+
+# target to preprocess a source file
+leetcode3/find_longest_string.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.i
+.PHONY : leetcode3/find_longest_string.cpp.i
+
+leetcode3/find_longest_string.s: leetcode3/find_longest_string.cpp.s
+
+.PHONY : leetcode3/find_longest_string.s
+
+# target to generate assembly for a file
+leetcode3/find_longest_string.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.s
+.PHONY : leetcode3/find_longest_string.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -218,6 +245,9 @@ help:
 	@echo ... leetcode2/add_two_numbers.obj
 	@echo ... leetcode2/add_two_numbers.i
 	@echo ... leetcode2/add_two_numbers.s
+	@echo ... leetcode3/find_longest_string.obj
+	@echo ... leetcode3/find_longest_string.i
+	@echo ... leetcode3/find_longest_string.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -5,14 +5,18 @@
 #include <ctime>
 #include <unordered_map>
 #include "leetcode2/add_two_numbers.h"
-#include <climits>
+#include "leetcode3/find_longest_string.h"
+#include <cstring>
+#include <cmath>
+#include <bitset>
 
 void twoSum();
 void add_two_sums();
 int main() {
-    using std::cout;
-    using std::endl;
-    add_two_sums();
+    using namespace std;
+
+    cout << pure_lengthOfLongestSubstring("dvdf") << endl;
+
     return 0;
 }
 void add_two_sums(){

@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/main.cpp.obj"
   "CMakeFiles/LeetCode.dir/leetcode1/two_sums.cpp.obj"
   "CMakeFiles/LeetCode.dir/leetcode2/add_two_numbers.cpp.obj"
+  "CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

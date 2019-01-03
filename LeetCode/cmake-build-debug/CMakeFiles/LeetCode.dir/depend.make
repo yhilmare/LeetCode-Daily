@@ -7,7 +7,11 @@ CMakeFiles/LeetCode.dir/leetcode1/two_sums.cpp.obj: ../leetcode1/two_sums.h
 CMakeFiles/LeetCode.dir/leetcode2/add_two_numbers.cpp.obj: ../leetcode2/add_two_numbers.cpp
 CMakeFiles/LeetCode.dir/leetcode2/add_two_numbers.cpp.obj: ../leetcode2/add_two_numbers.h
 
+CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.obj: ../leetcode3/find_longest_string.cpp
+CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.obj: ../leetcode3/find_longest_string.h
+
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode1/two_sums.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode2/add_two_numbers.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode3/find_longest_string.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../main.cpp
 
