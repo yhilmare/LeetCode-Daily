@@ -16,10 +16,22 @@ CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.obj: ../leetcode4/median
 CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.obj: ../leetcode5/longest_palindromic_string.cpp
 CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.obj: ../leetcode5/longest_palindromic_string.h
 
+CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.obj: ../leetcode6/zigzag_conversion.cpp
+CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.obj: ../leetcode6/zigzag_conversion.h
+
+CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.obj: ../leetcode7/reverse_integer.cpp
+CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.obj: ../leetcode7/reverse_integer.h
+
+CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.obj: ../leetcode8/atoi.cpp
+CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.obj: ../leetcode8/atoi.h
+
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode1/two_sums.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode2/add_two_numbers.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode3/find_longest_string.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode4/median_two_arrays.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode5/longest_palindromic_string.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode6/zigzag_conversion.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode7/reverse_integer.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode8/atoi.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../main.cpp
 

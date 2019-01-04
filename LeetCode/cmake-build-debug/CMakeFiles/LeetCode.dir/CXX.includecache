@@ -28,6 +28,16 @@ F:/repos/LeetCode-Daily/LeetCode/leetcode5/longest_palindromic_string.h
 string
 -
 
+F:/repos/LeetCode-Daily/LeetCode/leetcode6/zigzag_conversion.h
+string
+-
+
+F:/repos/LeetCode-Daily/LeetCode/leetcode7/reverse_integer.h
+
+F:/repos/LeetCode-Daily/LeetCode/leetcode8/atoi.h
+string
+-
+
 F:/repos/LeetCode-Daily/LeetCode/main.cpp
 iostream
 -
@@ -53,4 +63,12 @@ leetcode4/median_two_arrays.h
 F:/repos/LeetCode-Daily/LeetCode/leetcode4/median_two_arrays.h
 leetcode5/longest_palindromic_string.h
 F:/repos/LeetCode-Daily/LeetCode/leetcode5/longest_palindromic_string.h
+leetcode6/zigzag_conversion.h
+F:/repos/LeetCode-Daily/LeetCode/leetcode6/zigzag_conversion.h
+leetcode7/reverse_integer.h
+F:/repos/LeetCode-Daily/LeetCode/leetcode7/reverse_integer.h
+climits
+-
+leetcode8/atoi.h
+F:/repos/LeetCode-Daily/LeetCode/leetcode8/atoi.h
 

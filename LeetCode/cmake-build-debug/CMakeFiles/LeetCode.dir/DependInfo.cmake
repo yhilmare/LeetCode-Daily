@@ -9,6 +9,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "F:/repos/LeetCode-Daily/LeetCode/leetcode3/find_longest_string.cpp" "F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.obj"
   "F:/repos/LeetCode-Daily/LeetCode/leetcode4/median_two_arrays.cpp" "F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.obj"
   "F:/repos/LeetCode-Daily/LeetCode/leetcode5/longest_palindromic_string.cpp" "F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.obj"
+  "F:/repos/LeetCode-Daily/LeetCode/leetcode6/zigzag_conversion.cpp" "F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.obj"
+  "F:/repos/LeetCode-Daily/LeetCode/leetcode7/reverse_integer.cpp" "F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.obj"
+  "F:/repos/LeetCode-Daily/LeetCode/leetcode8/atoi.cpp" "F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.obj"
   "F:/repos/LeetCode-Daily/LeetCode/main.cpp" "F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

@@ -110,6 +110,24 @@
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode5/longest_palindromic_string.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode6/zigzag_conversion.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode6/zigzag_conversion.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode7/reverse_integer.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode7/reverse_integer.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode8/atoi.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode8/atoi.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/main.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

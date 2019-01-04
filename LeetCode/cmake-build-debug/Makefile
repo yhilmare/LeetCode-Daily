@@ -257,6 +257,87 @@ leetcode5/longest_palindromic_string.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.s
 .PHONY : leetcode5/longest_palindromic_string.cpp.s
 
+leetcode6/zigzag_conversion.obj: leetcode6/zigzag_conversion.cpp.obj
+
+.PHONY : leetcode6/zigzag_conversion.obj
+
+# target to build an object file
+leetcode6/zigzag_conversion.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.obj
+.PHONY : leetcode6/zigzag_conversion.cpp.obj
+
+leetcode6/zigzag_conversion.i: leetcode6/zigzag_conversion.cpp.i
+
+.PHONY : leetcode6/zigzag_conversion.i
+
+# target to preprocess a source file
+leetcode6/zigzag_conversion.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.i
+.PHONY : leetcode6/zigzag_conversion.cpp.i
+
+leetcode6/zigzag_conversion.s: leetcode6/zigzag_conversion.cpp.s
+
+.PHONY : leetcode6/zigzag_conversion.s
+
+# target to generate assembly for a file
+leetcode6/zigzag_conversion.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.s
+.PHONY : leetcode6/zigzag_conversion.cpp.s
+
+leetcode7/reverse_integer.obj: leetcode7/reverse_integer.cpp.obj
+
+.PHONY : leetcode7/reverse_integer.obj
+
+# target to build an object file
+leetcode7/reverse_integer.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.obj
+.PHONY : leetcode7/reverse_integer.cpp.obj
+
+leetcode7/reverse_integer.i: leetcode7/reverse_integer.cpp.i
+
+.PHONY : leetcode7/reverse_integer.i
+
+# target to preprocess a source file
+leetcode7/reverse_integer.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.i
+.PHONY : leetcode7/reverse_integer.cpp.i
+
+leetcode7/reverse_integer.s: leetcode7/reverse_integer.cpp.s
+
+.PHONY : leetcode7/reverse_integer.s
+
+# target to generate assembly for a file
+leetcode7/reverse_integer.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.s
+.PHONY : leetcode7/reverse_integer.cpp.s
+
+leetcode8/atoi.obj: leetcode8/atoi.cpp.obj
+
+.PHONY : leetcode8/atoi.obj
+
+# target to build an object file
+leetcode8/atoi.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.obj
+.PHONY : leetcode8/atoi.cpp.obj
+
+leetcode8/atoi.i: leetcode8/atoi.cpp.i
+
+.PHONY : leetcode8/atoi.i
+
+# target to preprocess a source file
+leetcode8/atoi.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.i
+.PHONY : leetcode8/atoi.cpp.i
+
+leetcode8/atoi.s: leetcode8/atoi.cpp.s
+
+.PHONY : leetcode8/atoi.s
+
+# target to generate assembly for a file
+leetcode8/atoi.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.s
+.PHONY : leetcode8/atoi.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -308,6 +389,15 @@ help:
 	@echo ... leetcode5/longest_palindromic_string.obj
 	@echo ... leetcode5/longest_palindromic_string.i
 	@echo ... leetcode5/longest_palindromic_string.s
+	@echo ... leetcode6/zigzag_conversion.obj
+	@echo ... leetcode6/zigzag_conversion.i
+	@echo ... leetcode6/zigzag_conversion.s
+	@echo ... leetcode7/reverse_integer.obj
+	@echo ... leetcode7/reverse_integer.i
+	@echo ... leetcode7/reverse_integer.s
+	@echo ... leetcode8/atoi.obj
+	@echo ... leetcode8/atoi.i
+	@echo ... leetcode8/atoi.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

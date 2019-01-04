@@ -10,21 +10,39 @@
 #include <cmath>
 #include "leetcode4/median_two_arrays.h"
 #include "leetcode5/longest_palindromic_string.h"
+#include "leetcode6/zigzag_conversion.h"
+#include "leetcode7/reverse_integer.h"
+#include <climits>
+#include "leetcode8/atoi.h"
 
 void twoSum();
 void add_two_sums();
 void longest_substring_without_repeating_characters();
 void median_of_two_sorted_array();
 void longest_palindrome();
+void zigzag_string();
+void reverse_integer();
 
 int main() {
     using namespace std;
+    char s = '0';
+    char s1 = '9';
+    cout << (int)s << " " << (int)s1 << endl;
     return 0;
+}
+void reverse_integer(){
+    using namespace std;
+    cout << reverse(1463847412) << endl;
+}
+void zigzag_string(){
+    using namespace std;
+    cout << convert("PAYPALISHIRING", 4) << endl;
 }
 void longest_palindrome(){
     using namespace std;
-    cout << longestPalindrome("abcdbbfcba") << endl;
+    cout << longestPalindrome("asdasfswertertergdfbfghrthr") << endl;
 }
+
 void median_of_two_sorted_array(){
     using namespace std;
     vector<int> nums1 = {1,2};

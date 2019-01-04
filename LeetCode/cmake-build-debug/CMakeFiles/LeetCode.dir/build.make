@@ -134,6 +134,45 @@ CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\repos\LeetCode-Daily\LeetCode\leetcode5\longest_palindromic_string.cpp -o CMakeFiles\LeetCode.dir\leetcode5\longest_palindromic_string.cpp.s
 
+CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.obj: ../leetcode6/zigzag_conversion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\leetcode6\zigzag_conversion.cpp.obj -c F:\repos\LeetCode-Daily\LeetCode\leetcode6\zigzag_conversion.cpp
+
+CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\repos\LeetCode-Daily\LeetCode\leetcode6\zigzag_conversion.cpp > CMakeFiles\LeetCode.dir\leetcode6\zigzag_conversion.cpp.i
+
+CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\repos\LeetCode-Daily\LeetCode\leetcode6\zigzag_conversion.cpp -o CMakeFiles\LeetCode.dir\leetcode6\zigzag_conversion.cpp.s
+
+CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.obj: ../leetcode7/reverse_integer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\leetcode7\reverse_integer.cpp.obj -c F:\repos\LeetCode-Daily\LeetCode\leetcode7\reverse_integer.cpp
+
+CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\repos\LeetCode-Daily\LeetCode\leetcode7\reverse_integer.cpp > CMakeFiles\LeetCode.dir\leetcode7\reverse_integer.cpp.i
+
+CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\repos\LeetCode-Daily\LeetCode\leetcode7\reverse_integer.cpp -o CMakeFiles\LeetCode.dir\leetcode7\reverse_integer.cpp.s
+
+CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.obj: ../leetcode8/atoi.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\leetcode8\atoi.cpp.obj -c F:\repos\LeetCode-Daily\LeetCode\leetcode8\atoi.cpp
+
+CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\repos\LeetCode-Daily\LeetCode\leetcode8\atoi.cpp > CMakeFiles\LeetCode.dir\leetcode8\atoi.cpp.i
+
+CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\repos\LeetCode-Daily\LeetCode\leetcode8\atoi.cpp -o CMakeFiles\LeetCode.dir\leetcode8\atoi.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -141,7 +180,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/leetcode2/add_two_numbers.cpp.obj" \
 "CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.obj" \
 "CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.obj" \
-"CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.obj"
+"CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.obj" \
+"CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.obj" \
+"CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.obj" \
+"CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -152,11 +194,14 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode2/add_two_numbers.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode3/find_longest_string.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode4/median_two_arrays.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
