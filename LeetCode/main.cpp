@@ -28,6 +28,8 @@ int main() {
     char s = '0';
     char s1 = '9';
     cout << (int)s << " " << (int)s1 << endl;
+    string str = "2147483646";
+    cout << myAtoi(str) << endl;
     return 0;
 }
 void reverse_integer(){
