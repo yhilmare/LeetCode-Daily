@@ -86,6 +86,18 @@
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode1/two_sums.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode10/regular_expression.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode10/regular_expression.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode11/container_with_most_water.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode11/container_with_most_water.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -126,6 +138,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode8/atoi.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode9/palindrome_number.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode9/palindrome_number.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/main.cpp">

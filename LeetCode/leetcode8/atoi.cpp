@@ -10,18 +10,24 @@ int myAtoi(std::string str){
         return 0;
     }
     int space_start = 0;
-    int space_end = str.size();
-    for (std::string::iterator iter = str.begin(); iter != str.end(); iter ++){
-        if ((*iter) == 32){
+    int tmp_size = str.size();
+    int space_end = tmp_size;
+    bool flag_1 = true;
+    bool flag = true;
+    for (int i = 0; i < tmp_size; i ++){
+        if(str[i] == 32 && flag_1){
             space_start ++;
-        }else{
-            break;
         }
-    }
-    for (std::string::reverse_iterator iter = str.rbegin(); iter != str.rend(); iter ++){
-        if ((*iter) == 32){
+        if (str[tmp_size - i - 1] == 32 && flag){
             space_end --;
-        }else{
+        }
+        if (str[i] != 32){
+            flag_1 = false;
+        }
+        if(str[tmp_size - i - 1] != 32){
+            flag = false;
+        }
+        if (!flag_1 && !flag){
             break;
         }
     }
@@ -30,7 +36,7 @@ int myAtoi(std::string str){
     if (str.size() == 0){
         return 0;
     }
-    bool flag = false;
+    flag = false;
     if (str[0] > 57 || str[0] < 48){
         if (str[0] != 45 && str [0] != 43){
             return 0;
@@ -47,27 +53,27 @@ int myAtoi(std::string str){
             str.erase(str.begin(), str.begin() + 1);
         }
     }
-    int index = 0;
+    space_start = 0;
+    space_end = 0;
+    flag_1 = true;
     for (std::string::iterator iter = str.begin(); iter != str.end(); iter ++){
-        if ((*iter) > 57 || (*iter) < 48){
-            break;
+        if ((*iter) == 48 && flag_1){
+            space_start ++;
+        }
+        if ((*iter) != 48){
+            flag_1 = false;
+        }
+        if (((*iter) <= 57 && (*iter) >= 48)){
+            space_end ++;
         }else{
-            index ++;
+            break;
         }
     }
-    str.erase(str.begin() + index, str.end());
-    index = 0;
-    for (std::string::iterator iter = str.begin(); iter != str.end(); iter ++){
-        if ((*iter) == 48){
-            index ++;
-        }else{
-            break;
-        }
-    }
-    str.erase(str.begin(), str.begin() + index);
+    str.erase(str.begin(), str.begin() + space_start);
+    str.erase(str.begin() + space_end - space_start, str.end());
     int result = 0;
     int size = str.size();
-    if (size >= 10) {
+    if (size > 10) {
         if (flag){
             return -2147483648;
         }else{

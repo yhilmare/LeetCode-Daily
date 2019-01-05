@@ -173,6 +173,45 @@ CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\repos\LeetCode-Daily\LeetCode\leetcode8\atoi.cpp -o CMakeFiles\LeetCode.dir\leetcode8\atoi.cpp.s
 
+CMakeFiles/LeetCode.dir/leetcode9/palindrome_number.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/leetcode9/palindrome_number.cpp.obj: ../leetcode9/palindrome_number.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/LeetCode.dir/leetcode9/palindrome_number.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\leetcode9\palindrome_number.cpp.obj -c F:\repos\LeetCode-Daily\LeetCode\leetcode9\palindrome_number.cpp
+
+CMakeFiles/LeetCode.dir/leetcode9/palindrome_number.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/leetcode9/palindrome_number.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\repos\LeetCode-Daily\LeetCode\leetcode9\palindrome_number.cpp > CMakeFiles\LeetCode.dir\leetcode9\palindrome_number.cpp.i
+
+CMakeFiles/LeetCode.dir/leetcode9/palindrome_number.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/leetcode9/palindrome_number.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\repos\LeetCode-Daily\LeetCode\leetcode9\palindrome_number.cpp -o CMakeFiles\LeetCode.dir\leetcode9\palindrome_number.cpp.s
+
+CMakeFiles/LeetCode.dir/leetcode10/regular_expression.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/leetcode10/regular_expression.cpp.obj: ../leetcode10/regular_expression.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/LeetCode.dir/leetcode10/regular_expression.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\leetcode10\regular_expression.cpp.obj -c F:\repos\LeetCode-Daily\LeetCode\leetcode10\regular_expression.cpp
+
+CMakeFiles/LeetCode.dir/leetcode10/regular_expression.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/leetcode10/regular_expression.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\repos\LeetCode-Daily\LeetCode\leetcode10\regular_expression.cpp > CMakeFiles\LeetCode.dir\leetcode10\regular_expression.cpp.i
+
+CMakeFiles/LeetCode.dir/leetcode10/regular_expression.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/leetcode10/regular_expression.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\repos\LeetCode-Daily\LeetCode\leetcode10\regular_expression.cpp -o CMakeFiles\LeetCode.dir\leetcode10\regular_expression.cpp.s
+
+CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.obj: ../leetcode11/container_with_most_water.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\leetcode11\container_with_most_water.cpp.obj -c F:\repos\LeetCode-Daily\LeetCode\leetcode11\container_with_most_water.cpp
+
+CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\repos\LeetCode-Daily\LeetCode\leetcode11\container_with_most_water.cpp > CMakeFiles\LeetCode.dir\leetcode11\container_with_most_water.cpp.i
+
+CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\repos\LeetCode-Daily\LeetCode\leetcode11\container_with_most_water.cpp -o CMakeFiles\LeetCode.dir\leetcode11\container_with_most_water.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -183,7 +222,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.obj" \
 "CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.obj" \
 "CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.obj" \
-"CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.obj"
+"CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.obj" \
+"CMakeFiles/LeetCode.dir/leetcode9/palindrome_number.cpp.obj" \
+"CMakeFiles/LeetCode.dir/leetcode10/regular_expression.cpp.obj" \
+"CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -197,11 +239,14 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode5/longest_palindromic_string.cpp.o
 LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode6/zigzag_conversion.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode7/reverse_integer.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode9/palindrome_number.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode10/regular_expression.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\repos\LeetCode-Daily\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

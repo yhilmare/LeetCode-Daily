@@ -1,19 +1,22 @@
 #include <iostream>
-#include "leetcode1/two_sums.h"
 #include <vector>
 #include <iterator>
 #include <ctime>
-#include <unordered_map>
-#include "leetcode2/add_two_numbers.h"
-#include "leetcode3/find_longest_string.h"
 #include <cstring>
 #include <cmath>
+#include <climits>
+#include <unordered_map>
+#include "leetcode1/two_sums.h"
+#include "leetcode2/add_two_numbers.h"
+#include "leetcode3/find_longest_string.h"
 #include "leetcode4/median_two_arrays.h"
 #include "leetcode5/longest_palindromic_string.h"
 #include "leetcode6/zigzag_conversion.h"
 #include "leetcode7/reverse_integer.h"
-#include <climits>
 #include "leetcode8/atoi.h"
+#include "leetcode9/palindrome_number.h"
+#include "leetcode10/regular_expression.h"
+#include "leetcode11/container_with_most_water.h"
 
 void twoSum();
 void add_two_sums();
@@ -22,15 +25,24 @@ void median_of_two_sorted_array();
 void longest_palindrome();
 void zigzag_string();
 void reverse_integer();
+void myatio();
+void palindrome();
 
 int main() {
     using namespace std;
-    char s = '0';
-    char s1 = '9';
-    cout << (int)s << " " << (int)s1 << endl;
-    string str = "2147483646";
-    cout << myAtoi(str) << endl;
+    vector<int> vec = {1,2};
+    cout << maxArea(vec) << endl;
     return 0;
+}
+
+void palindrome(){
+    using namespace std;
+    cout << isPalindrome(0) << endl;
+}
+void myatio(){
+    using namespace std;
+    string str = " -42";
+    cout << myAtoi(str) << endl;
 }
 void reverse_integer(){
     using namespace std;

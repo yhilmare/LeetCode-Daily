@@ -149,6 +149,60 @@ leetcode1/two_sums.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode1/two_sums.cpp.s
 .PHONY : leetcode1/two_sums.cpp.s
 
+leetcode10/regular_expression.obj: leetcode10/regular_expression.cpp.obj
+
+.PHONY : leetcode10/regular_expression.obj
+
+# target to build an object file
+leetcode10/regular_expression.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode10/regular_expression.cpp.obj
+.PHONY : leetcode10/regular_expression.cpp.obj
+
+leetcode10/regular_expression.i: leetcode10/regular_expression.cpp.i
+
+.PHONY : leetcode10/regular_expression.i
+
+# target to preprocess a source file
+leetcode10/regular_expression.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode10/regular_expression.cpp.i
+.PHONY : leetcode10/regular_expression.cpp.i
+
+leetcode10/regular_expression.s: leetcode10/regular_expression.cpp.s
+
+.PHONY : leetcode10/regular_expression.s
+
+# target to generate assembly for a file
+leetcode10/regular_expression.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode10/regular_expression.cpp.s
+.PHONY : leetcode10/regular_expression.cpp.s
+
+leetcode11/container_with_most_water.obj: leetcode11/container_with_most_water.cpp.obj
+
+.PHONY : leetcode11/container_with_most_water.obj
+
+# target to build an object file
+leetcode11/container_with_most_water.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.obj
+.PHONY : leetcode11/container_with_most_water.cpp.obj
+
+leetcode11/container_with_most_water.i: leetcode11/container_with_most_water.cpp.i
+
+.PHONY : leetcode11/container_with_most_water.i
+
+# target to preprocess a source file
+leetcode11/container_with_most_water.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.i
+.PHONY : leetcode11/container_with_most_water.cpp.i
+
+leetcode11/container_with_most_water.s: leetcode11/container_with_most_water.cpp.s
+
+.PHONY : leetcode11/container_with_most_water.s
+
+# target to generate assembly for a file
+leetcode11/container_with_most_water.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.s
+.PHONY : leetcode11/container_with_most_water.cpp.s
+
 leetcode2/add_two_numbers.obj: leetcode2/add_two_numbers.cpp.obj
 
 .PHONY : leetcode2/add_two_numbers.obj
@@ -338,6 +392,33 @@ leetcode8/atoi.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode8/atoi.cpp.s
 .PHONY : leetcode8/atoi.cpp.s
 
+leetcode9/palindrome_number.obj: leetcode9/palindrome_number.cpp.obj
+
+.PHONY : leetcode9/palindrome_number.obj
+
+# target to build an object file
+leetcode9/palindrome_number.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode9/palindrome_number.cpp.obj
+.PHONY : leetcode9/palindrome_number.cpp.obj
+
+leetcode9/palindrome_number.i: leetcode9/palindrome_number.cpp.i
+
+.PHONY : leetcode9/palindrome_number.i
+
+# target to preprocess a source file
+leetcode9/palindrome_number.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode9/palindrome_number.cpp.i
+.PHONY : leetcode9/palindrome_number.cpp.i
+
+leetcode9/palindrome_number.s: leetcode9/palindrome_number.cpp.s
+
+.PHONY : leetcode9/palindrome_number.s
+
+# target to generate assembly for a file
+leetcode9/palindrome_number.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode9/palindrome_number.cpp.s
+.PHONY : leetcode9/palindrome_number.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -377,6 +458,12 @@ help:
 	@echo ... leetcode1/two_sums.obj
 	@echo ... leetcode1/two_sums.i
 	@echo ... leetcode1/two_sums.s
+	@echo ... leetcode10/regular_expression.obj
+	@echo ... leetcode10/regular_expression.i
+	@echo ... leetcode10/regular_expression.s
+	@echo ... leetcode11/container_with_most_water.obj
+	@echo ... leetcode11/container_with_most_water.i
+	@echo ... leetcode11/container_with_most_water.s
 	@echo ... leetcode2/add_two_numbers.obj
 	@echo ... leetcode2/add_two_numbers.i
 	@echo ... leetcode2/add_two_numbers.s
@@ -398,6 +485,9 @@ help:
 	@echo ... leetcode8/atoi.obj
 	@echo ... leetcode8/atoi.i
 	@echo ... leetcode8/atoi.s
+	@echo ... leetcode9/palindrome_number.obj
+	@echo ... leetcode9/palindrome_number.i
+	@echo ... leetcode9/palindrome_number.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
