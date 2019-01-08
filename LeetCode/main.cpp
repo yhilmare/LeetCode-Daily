@@ -18,6 +18,7 @@
 #include "leetcode10/regular_expression.h"
 #include "leetcode11/container_with_most_water.h"
 #include "leetcode12/integer_to_roman.h"
+#include "leetcode13/roman_to_integer.h"
 
 void twoSum();
 void add_two_sums();
@@ -32,7 +33,7 @@ void max_area();
 
 int main() {
     using namespace std;
-    
+    cout << romanToInt(string("MCMXCIV")) << endl;
 }
 
 void roman_to_integer(){

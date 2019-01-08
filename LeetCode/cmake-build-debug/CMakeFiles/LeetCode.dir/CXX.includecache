@@ -22,6 +22,10 @@ F:/repos/LeetCode-Daily/LeetCode/leetcode12/integer_to_roman.h
 string
 -
 
+F:/repos/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.h
+string
+-
+
 F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.h
 iostream
 -
@@ -93,4 +97,6 @@ leetcode11/container_with_most_water.h
 F:/repos/LeetCode-Daily/LeetCode/leetcode11/container_with_most_water.h
 leetcode12/integer_to_roman.h
 F:/repos/LeetCode-Daily/LeetCode/leetcode12/integer_to_roman.h
+leetcode13/roman_to_integer.h
+F:/repos/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.h
 
