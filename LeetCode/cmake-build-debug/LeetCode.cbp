@@ -98,6 +98,18 @@
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode11/container_with_most_water.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode12/integer_to_roman.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode12/integer_to_roman.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

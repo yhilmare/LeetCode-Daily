@@ -11,6 +11,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/leetcode9/palindrome_number.cpp.obj"
   "CMakeFiles/LeetCode.dir/leetcode10/regular_expression.cpp.obj"
   "CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.obj"
+  "CMakeFiles/LeetCode.dir/leetcode12/integer_to_roman.cpp.obj"
+  "CMakeFiles/LeetCode.dir/leetcode13/roman_to_integer.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

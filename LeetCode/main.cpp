@@ -17,6 +17,7 @@
 #include "leetcode9/palindrome_number.h"
 #include "leetcode10/regular_expression.h"
 #include "leetcode11/container_with_most_water.h"
+#include "leetcode12/integer_to_roman.h"
 
 void twoSum();
 void add_two_sums();
@@ -27,12 +28,21 @@ void zigzag_string();
 void reverse_integer();
 void myatio();
 void palindrome();
+void max_area();
 
 int main() {
     using namespace std;
+    
+}
+
+void roman_to_integer(){
+    using namespace std;
+    cout << intToRoman(61) << endl;
+}
+void max_area(){
+    using namespace std;
     vector<int> vec = {1,2};
     cout << maxArea(vec) << endl;
-    return 0;
 }
 
 void palindrome(){

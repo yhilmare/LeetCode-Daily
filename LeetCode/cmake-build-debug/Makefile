@@ -203,6 +203,60 @@ leetcode11/container_with_most_water.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode11/container_with_most_water.cpp.s
 .PHONY : leetcode11/container_with_most_water.cpp.s
 
+leetcode12/integer_to_roman.obj: leetcode12/integer_to_roman.cpp.obj
+
+.PHONY : leetcode12/integer_to_roman.obj
+
+# target to build an object file
+leetcode12/integer_to_roman.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode12/integer_to_roman.cpp.obj
+.PHONY : leetcode12/integer_to_roman.cpp.obj
+
+leetcode12/integer_to_roman.i: leetcode12/integer_to_roman.cpp.i
+
+.PHONY : leetcode12/integer_to_roman.i
+
+# target to preprocess a source file
+leetcode12/integer_to_roman.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode12/integer_to_roman.cpp.i
+.PHONY : leetcode12/integer_to_roman.cpp.i
+
+leetcode12/integer_to_roman.s: leetcode12/integer_to_roman.cpp.s
+
+.PHONY : leetcode12/integer_to_roman.s
+
+# target to generate assembly for a file
+leetcode12/integer_to_roman.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode12/integer_to_roman.cpp.s
+.PHONY : leetcode12/integer_to_roman.cpp.s
+
+leetcode13/roman_to_integer.obj: leetcode13/roman_to_integer.cpp.obj
+
+.PHONY : leetcode13/roman_to_integer.obj
+
+# target to build an object file
+leetcode13/roman_to_integer.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode13/roman_to_integer.cpp.obj
+.PHONY : leetcode13/roman_to_integer.cpp.obj
+
+leetcode13/roman_to_integer.i: leetcode13/roman_to_integer.cpp.i
+
+.PHONY : leetcode13/roman_to_integer.i
+
+# target to preprocess a source file
+leetcode13/roman_to_integer.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode13/roman_to_integer.cpp.i
+.PHONY : leetcode13/roman_to_integer.cpp.i
+
+leetcode13/roman_to_integer.s: leetcode13/roman_to_integer.cpp.s
+
+.PHONY : leetcode13/roman_to_integer.s
+
+# target to generate assembly for a file
+leetcode13/roman_to_integer.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode13/roman_to_integer.cpp.s
+.PHONY : leetcode13/roman_to_integer.cpp.s
+
 leetcode2/add_two_numbers.obj: leetcode2/add_two_numbers.cpp.obj
 
 .PHONY : leetcode2/add_two_numbers.obj
@@ -464,6 +518,12 @@ help:
 	@echo ... leetcode11/container_with_most_water.obj
 	@echo ... leetcode11/container_with_most_water.i
 	@echo ... leetcode11/container_with_most_water.s
+	@echo ... leetcode12/integer_to_roman.obj
+	@echo ... leetcode12/integer_to_roman.i
+	@echo ... leetcode12/integer_to_roman.s
+	@echo ... leetcode13/roman_to_integer.obj
+	@echo ... leetcode13/roman_to_integer.i
+	@echo ... leetcode13/roman_to_integer.s
 	@echo ... leetcode2/add_two_numbers.obj
 	@echo ... leetcode2/add_two_numbers.i
 	@echo ... leetcode2/add_two_numbers.s
