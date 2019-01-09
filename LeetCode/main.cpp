@@ -5,7 +5,6 @@
 #include <cstring>
 #include <cmath>
 #include <climits>
-#include <unordered_map>
 #include "leetcode1/two_sums.h"
 #include "leetcode2/add_two_numbers.h"
 #include "leetcode3/find_longest_string.h"
@@ -21,6 +20,7 @@
 #include "leetcode13/roman_to_integer.h"
 #include "leetcode14/longest_common_prefix.h"
 #include "leetcode15/three_sum.h"
+#include "leetcode16/three_sum_closest.h"
 
 void twoSum();
 void add_two_sums();
@@ -36,8 +36,14 @@ void longest_common_prefix();
 
 int main() {
     using namespace std;
-    vector<int> nums = {-1, -1, -1, 2, 2, 2, 2};
-    vector<vector<int>> res = threeSum(nums);
+    vector<int> nums = {-1, 2, 1, -4};
+    cout << threeSumClosest(nums, 1) << endl;
+}
+
+void three_sum(){
+    using namespace std;
+    vector<int> nums = {-1, 0, 1, 2, -1, 4};
+    vector<vector<int>> res = threeSum(nums, 0);
     for (int i = 0; i < res.size(); i ++){
         vector<int> tmp = res[i];
         for (int j = 0; j < tmp.size(); j ++){
@@ -46,7 +52,6 @@ int main() {
         cout << endl;
     }
 }
-
 void longest_common_prefix(){
     using namespace std;
     vector<string> vec = {"flower", "flight", ""};

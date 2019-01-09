@@ -15,6 +15,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/leetcode13/roman_to_integer.cpp.obj"
   "CMakeFiles/LeetCode.dir/leetcode14/longest_common_prefix.cpp.obj"
   "CMakeFiles/LeetCode.dir/leetcode15/three_sum.cpp.obj"
+  "CMakeFiles/LeetCode.dir/leetcode16/three_sum_closest.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

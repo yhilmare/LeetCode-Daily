@@ -311,6 +311,33 @@ leetcode15/three_sum.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode15/three_sum.cpp.s
 .PHONY : leetcode15/three_sum.cpp.s
 
+leetcode16/three_sum_closest.obj: leetcode16/three_sum_closest.cpp.obj
+
+.PHONY : leetcode16/three_sum_closest.obj
+
+# target to build an object file
+leetcode16/three_sum_closest.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode16/three_sum_closest.cpp.obj
+.PHONY : leetcode16/three_sum_closest.cpp.obj
+
+leetcode16/three_sum_closest.i: leetcode16/three_sum_closest.cpp.i
+
+.PHONY : leetcode16/three_sum_closest.i
+
+# target to preprocess a source file
+leetcode16/three_sum_closest.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode16/three_sum_closest.cpp.i
+.PHONY : leetcode16/three_sum_closest.cpp.i
+
+leetcode16/three_sum_closest.s: leetcode16/three_sum_closest.cpp.s
+
+.PHONY : leetcode16/three_sum_closest.s
+
+# target to generate assembly for a file
+leetcode16/three_sum_closest.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode16/three_sum_closest.cpp.s
+.PHONY : leetcode16/three_sum_closest.cpp.s
+
 leetcode2/add_two_numbers.obj: leetcode2/add_two_numbers.cpp.obj
 
 .PHONY : leetcode2/add_two_numbers.obj
@@ -584,6 +611,9 @@ help:
 	@echo ... leetcode15/three_sum.obj
 	@echo ... leetcode15/three_sum.i
 	@echo ... leetcode15/three_sum.s
+	@echo ... leetcode16/three_sum_closest.obj
+	@echo ... leetcode16/three_sum_closest.i
+	@echo ... leetcode16/three_sum_closest.s
 	@echo ... leetcode2/add_two_numbers.obj
 	@echo ... leetcode2/add_two_numbers.i
 	@echo ... leetcode2/add_two_numbers.s

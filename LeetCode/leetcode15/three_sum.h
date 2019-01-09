@@ -7,6 +7,6 @@
 
 #include <vector>
 
-std::vector<std::vector<int>> threeSum(std::vector<int>& nums);
+std::vector<std::vector<int>> threeSum(std::vector<int>& nums, int target);
 
 #endif //LEETCODE_THREE_SUM_H
