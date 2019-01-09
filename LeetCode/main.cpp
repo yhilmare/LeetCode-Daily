@@ -33,13 +33,19 @@ void myatio();
 void palindrome();
 void max_area();
 void longest_common_prefix();
+void three_sum_longest();
+void three_sum();
 
 int main() {
+    using namespace std;
+
+}
+
+void three_sum_longest(){
     using namespace std;
     vector<int> nums = {-1, 2, 1, -4};
     cout << threeSumClosest(nums, 1) << endl;
 }
-
 void three_sum(){
     using namespace std;
     vector<int> nums = {-1, 0, 1, 2, -1, 4};
