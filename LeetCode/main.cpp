@@ -19,6 +19,8 @@
 #include "leetcode11/container_with_most_water.h"
 #include "leetcode12/integer_to_roman.h"
 #include "leetcode13/roman_to_integer.h"
+#include "leetcode14/longest_common_prefix.h"
+#include "leetcode15/three_sum.h"
 
 void twoSum();
 void add_two_sums();
@@ -30,12 +32,26 @@ void reverse_integer();
 void myatio();
 void palindrome();
 void max_area();
+void longest_common_prefix();
 
 int main() {
     using namespace std;
-    cout << romanToInt(string("MCMXCIV")) << endl;
+    vector<int> nums = {-1, -1, -1, 2, 2, 2, 2};
+    vector<vector<int>> res = threeSum(nums);
+    for (int i = 0; i < res.size(); i ++){
+        vector<int> tmp = res[i];
+        for (int j = 0; j < tmp.size(); j ++){
+            cout << tmp[j] << " ";
+        }
+        cout << endl;
+    }
 }
 
+void longest_common_prefix(){
+    using namespace std;
+    vector<string> vec = {"flower", "flight", ""};
+    cout << longestCommonPrefix(vec) << endl;
+}
 void roman_to_integer(){
     using namespace std;
     cout << intToRoman(61) << endl;

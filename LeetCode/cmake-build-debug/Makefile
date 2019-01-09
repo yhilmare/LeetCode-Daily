@@ -257,6 +257,60 @@ leetcode13/roman_to_integer.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode13/roman_to_integer.cpp.s
 .PHONY : leetcode13/roman_to_integer.cpp.s
 
+leetcode14/longest_common_prefix.obj: leetcode14/longest_common_prefix.cpp.obj
+
+.PHONY : leetcode14/longest_common_prefix.obj
+
+# target to build an object file
+leetcode14/longest_common_prefix.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode14/longest_common_prefix.cpp.obj
+.PHONY : leetcode14/longest_common_prefix.cpp.obj
+
+leetcode14/longest_common_prefix.i: leetcode14/longest_common_prefix.cpp.i
+
+.PHONY : leetcode14/longest_common_prefix.i
+
+# target to preprocess a source file
+leetcode14/longest_common_prefix.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode14/longest_common_prefix.cpp.i
+.PHONY : leetcode14/longest_common_prefix.cpp.i
+
+leetcode14/longest_common_prefix.s: leetcode14/longest_common_prefix.cpp.s
+
+.PHONY : leetcode14/longest_common_prefix.s
+
+# target to generate assembly for a file
+leetcode14/longest_common_prefix.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode14/longest_common_prefix.cpp.s
+.PHONY : leetcode14/longest_common_prefix.cpp.s
+
+leetcode15/three_sum.obj: leetcode15/three_sum.cpp.obj
+
+.PHONY : leetcode15/three_sum.obj
+
+# target to build an object file
+leetcode15/three_sum.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode15/three_sum.cpp.obj
+.PHONY : leetcode15/three_sum.cpp.obj
+
+leetcode15/three_sum.i: leetcode15/three_sum.cpp.i
+
+.PHONY : leetcode15/three_sum.i
+
+# target to preprocess a source file
+leetcode15/three_sum.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode15/three_sum.cpp.i
+.PHONY : leetcode15/three_sum.cpp.i
+
+leetcode15/three_sum.s: leetcode15/three_sum.cpp.s
+
+.PHONY : leetcode15/three_sum.s
+
+# target to generate assembly for a file
+leetcode15/three_sum.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode15/three_sum.cpp.s
+.PHONY : leetcode15/three_sum.cpp.s
+
 leetcode2/add_two_numbers.obj: leetcode2/add_two_numbers.cpp.obj
 
 .PHONY : leetcode2/add_two_numbers.obj
@@ -524,6 +578,12 @@ help:
 	@echo ... leetcode13/roman_to_integer.obj
 	@echo ... leetcode13/roman_to_integer.i
 	@echo ... leetcode13/roman_to_integer.s
+	@echo ... leetcode14/longest_common_prefix.obj
+	@echo ... leetcode14/longest_common_prefix.i
+	@echo ... leetcode14/longest_common_prefix.s
+	@echo ... leetcode15/three_sum.obj
+	@echo ... leetcode15/three_sum.i
+	@echo ... leetcode15/three_sum.s
 	@echo ... leetcode2/add_two_numbers.obj
 	@echo ... leetcode2/add_two_numbers.i
 	@echo ... leetcode2/add_two_numbers.s

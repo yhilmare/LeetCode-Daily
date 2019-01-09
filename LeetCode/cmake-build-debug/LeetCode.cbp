@@ -110,6 +110,18 @@
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode14/longest_common_prefix.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode14/longest_common_prefix.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode15/three_sum.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode15/three_sum.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

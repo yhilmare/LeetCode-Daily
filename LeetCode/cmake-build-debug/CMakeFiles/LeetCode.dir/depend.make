@@ -16,6 +16,12 @@ CMakeFiles/LeetCode.dir/leetcode12/integer_to_roman.cpp.obj: ../leetcode12/integ
 CMakeFiles/LeetCode.dir/leetcode13/roman_to_integer.cpp.obj: ../leetcode13/roman_to_integer.cpp
 CMakeFiles/LeetCode.dir/leetcode13/roman_to_integer.cpp.obj: ../leetcode13/roman_to_integer.h
 
+CMakeFiles/LeetCode.dir/leetcode14/longest_common_prefix.cpp.obj: ../leetcode14/longest_common_prefix.cpp
+CMakeFiles/LeetCode.dir/leetcode14/longest_common_prefix.cpp.obj: ../leetcode14/longest_common_prefix.h
+
+CMakeFiles/LeetCode.dir/leetcode15/three_sum.cpp.obj: ../leetcode15/three_sum.cpp
+CMakeFiles/LeetCode.dir/leetcode15/three_sum.cpp.obj: ../leetcode15/three_sum.h
+
 CMakeFiles/LeetCode.dir/leetcode2/add_two_numbers.cpp.obj: ../leetcode2/add_two_numbers.cpp
 CMakeFiles/LeetCode.dir/leetcode2/add_two_numbers.cpp.obj: ../leetcode2/add_two_numbers.h
 
@@ -45,6 +51,8 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode10/regular_expression.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode11/container_with_most_water.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode12/integer_to_roman.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode13/roman_to_integer.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode14/longest_common_prefix.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode15/three_sum.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode2/add_two_numbers.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode3/find_longest_string.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../leetcode4/median_two_arrays.h

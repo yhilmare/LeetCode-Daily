@@ -26,6 +26,16 @@ F:/repos/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.h
 string
 -
 
+F:/repos/LeetCode-Daily/LeetCode/leetcode14/longest_common_prefix.h
+string
+-
+vector
+-
+
+F:/repos/LeetCode-Daily/LeetCode/leetcode15/three_sum.h
+vector
+-
+
 F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.h
 iostream
 -
@@ -99,4 +109,8 @@ leetcode12/integer_to_roman.h
 F:/repos/LeetCode-Daily/LeetCode/leetcode12/integer_to_roman.h
 leetcode13/roman_to_integer.h
 F:/repos/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.h
+leetcode14/longest_common_prefix.h
+F:/repos/LeetCode-Daily/LeetCode/leetcode14/longest_common_prefix.h
+leetcode15/three_sum.h
+F:/repos/LeetCode-Daily/LeetCode/leetcode15/three_sum.h
 
