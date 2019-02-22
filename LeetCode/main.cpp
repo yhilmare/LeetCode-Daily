@@ -21,7 +21,7 @@
 #include "leetcode14/longest_common_prefix.h"
 #include "leetcode15/three_sum.h"
 #include "leetcode16/three_sum_closest.h"
-
+#include "leetcode17/letter_combinations.h"
 void twoSum();
 void add_two_sums();
 void longest_substring_without_repeating_characters();
@@ -38,7 +38,10 @@ void three_sum();
 
 int main() {
     using namespace std;
-
+    vector<string> res = letterCombinations(string("23"));
+    for (vector<string>::iterator iter = res.begin(); iter != res.end(); iter ++){
+        cout << *iter << endl;
+    }
 }
 
 void three_sum_longest(){

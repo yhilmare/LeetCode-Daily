@@ -8,178 +8,188 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug"/>
+				<Option working_dir="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="LeetCode">
-				<Option output="F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/LeetCode.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 LeetCode"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="LeetCode/fast">
-				<Option output="F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/LeetCode.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 LeetCode/fast"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug"/>
+				<Option working_dir="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;F:/repos/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LeetCode">
+				<Option output="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/LeetCode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 LeetCode"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LeetCode/fast">
+				<Option output="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/LeetCode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 LeetCode/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode1/two_sums.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode1/two_sums.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode1/two_sums.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode1/two_sums.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode10/regular_expression.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode10/regular_expression.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode10/regular_expression.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode10/regular_expression.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode11/container_with_most_water.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode11/container_with_most_water.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode11/container_with_most_water.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode11/container_with_most_water.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode12/integer_to_roman.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode12/integer_to_roman.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode12/integer_to_roman.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode12/integer_to_roman.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode14/longest_common_prefix.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode14/longest_common_prefix.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode14/longest_common_prefix.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode14/longest_common_prefix.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode15/three_sum.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode15/three_sum.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode15/three_sum.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode15/three_sum.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode16/three_sum_closest.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode16/three_sum_closest.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode16/three_sum_closest.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode16/three_sum_closest.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode17/letter_combinations.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode17/letter_combinations.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode3/find_longest_string.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode3/find_longest_string.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode4/median_two_arrays.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode3/find_longest_string.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode4/median_two_arrays.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode3/find_longest_string.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode5/longest_palindromic_string.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode4/median_two_arrays.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode5/longest_palindromic_string.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode4/median_two_arrays.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode6/zigzag_conversion.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode5/longest_palindromic_string.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode6/zigzag_conversion.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode5/longest_palindromic_string.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode7/reverse_integer.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode6/zigzag_conversion.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode7/reverse_integer.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode6/zigzag_conversion.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode8/atoi.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode7/reverse_integer.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode8/atoi.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode7/reverse_integer.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode9/palindrome_number.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode8/atoi.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode9/palindrome_number.h">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode8/atoi.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/main.cpp">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode9/palindrome_number.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/CMakeLists.txt">
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/leetcode9/palindrome_number.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/main.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/home/ilmare/workspace/c/LeetCode-Daily/LeetCode/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
