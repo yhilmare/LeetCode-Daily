@@ -17,6 +17,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/leetcode15/three_sum.cpp.obj"
   "CMakeFiles/LeetCode.dir/leetcode16/three_sum_closest.cpp.obj"
   "CMakeFiles/LeetCode.dir/leetcode17/letter_combinations.cpp.obj"
+  "CMakeFiles/LeetCode.dir/leetcode19/remove_last_of_link.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

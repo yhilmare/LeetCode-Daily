@@ -20,4 +20,4 @@ add_executable(LeetCode main.cpp ./leetcode1/two_sums.cpp
         leetcode14/longest_common_prefix.cpp
         leetcode15/three_sum.cpp
         leetcode16/three_sum_closest.cpp
-        leetcode17/letter_combinations.cpp)
+        leetcode17/letter_combinations.cpp leetcode19/remove_last_of_link.cpp leetcode19/remove_last_of_link.h)

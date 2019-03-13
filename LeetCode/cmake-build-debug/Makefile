@@ -365,6 +365,33 @@ leetcode17/letter_combinations.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode17/letter_combinations.cpp.s
 .PHONY : leetcode17/letter_combinations.cpp.s
 
+leetcode19/remove_last_of_link.obj: leetcode19/remove_last_of_link.cpp.obj
+
+.PHONY : leetcode19/remove_last_of_link.obj
+
+# target to build an object file
+leetcode19/remove_last_of_link.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode19/remove_last_of_link.cpp.obj
+.PHONY : leetcode19/remove_last_of_link.cpp.obj
+
+leetcode19/remove_last_of_link.i: leetcode19/remove_last_of_link.cpp.i
+
+.PHONY : leetcode19/remove_last_of_link.i
+
+# target to preprocess a source file
+leetcode19/remove_last_of_link.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode19/remove_last_of_link.cpp.i
+.PHONY : leetcode19/remove_last_of_link.cpp.i
+
+leetcode19/remove_last_of_link.s: leetcode19/remove_last_of_link.cpp.s
+
+.PHONY : leetcode19/remove_last_of_link.s
+
+# target to generate assembly for a file
+leetcode19/remove_last_of_link.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/leetcode19/remove_last_of_link.cpp.s
+.PHONY : leetcode19/remove_last_of_link.cpp.s
+
 leetcode2/add_two_numbers.obj: leetcode2/add_two_numbers.cpp.obj
 
 .PHONY : leetcode2/add_two_numbers.obj
@@ -644,6 +671,9 @@ help:
 	@echo ... leetcode17/letter_combinations.obj
 	@echo ... leetcode17/letter_combinations.i
 	@echo ... leetcode17/letter_combinations.s
+	@echo ... leetcode19/remove_last_of_link.obj
+	@echo ... leetcode19/remove_last_of_link.i
+	@echo ... leetcode19/remove_last_of_link.s
 	@echo ... leetcode2/add_two_numbers.obj
 	@echo ... leetcode2/add_two_numbers.i
 	@echo ... leetcode2/add_two_numbers.s

@@ -134,6 +134,12 @@
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode17/letter_combinations.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode19/remove_last_of_link.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode19/remove_last_of_link.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
