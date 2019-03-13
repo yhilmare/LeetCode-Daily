@@ -6,61 +6,25 @@
 
 #IncludeRegexTransform: 
 
-F:/repos/LeetCode-Daily/LeetCode/leetcode1/two_sums.cpp
-two_sums.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode1/two_sums.h
-iterator
--
-iostream
--
-unordered_map
--
-
 F:/repos/LeetCode-Daily/LeetCode/leetcode1/two_sums.h
 vector
--
-
-F:/repos/LeetCode-Daily/LeetCode/leetcode10/regular_expression.cpp
-regular_expression.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode10/regular_expression.h
-iostream
 -
 
 F:/repos/LeetCode-Daily/LeetCode/leetcode10/regular_expression.h
 string
 -
 
-F:/repos/LeetCode-Daily/LeetCode/leetcode11/container_with_most_water.cpp
-container_with_most_water.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode11/container_with_most_water.h
-
 F:/repos/LeetCode-Daily/LeetCode/leetcode11/container_with_most_water.h
 vector
 -
 
-F:/repos/LeetCode-Daily/LeetCode/leetcode12/integer_to_roman.cpp
-integer_to_roman.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode12/integer_to_roman.h
-iostream
--
-
 F:/repos/LeetCode-Daily/LeetCode/leetcode12/integer_to_roman.h
 string
--
-
-F:/repos/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.cpp
-roman_to_integer.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.h
-iostream
 -
 
 F:/repos/LeetCode-Daily/LeetCode/leetcode13/roman_to_integer.h
 string
 -
-
-F:/repos/LeetCode-Daily/LeetCode/leetcode14/longest_common_prefix.cpp
-longest_common_prefix.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode14/longest_common_prefix.h
 
 F:/repos/LeetCode-Daily/LeetCode/leetcode14/longest_common_prefix.h
 string
@@ -68,38 +32,12 @@ string
 vector
 -
 
-F:/repos/LeetCode-Daily/LeetCode/leetcode15/three_sum.cpp
-three_sum.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode15/three_sum.h
-iostream
--
-algorithm
--
-set
--
-unordered_set
--
-
 F:/repos/LeetCode-Daily/LeetCode/leetcode15/three_sum.h
 vector
 -
 
-F:/repos/LeetCode-Daily/LeetCode/leetcode16/three_sum_closest.cpp
-three_sum_closest.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode16/three_sum_closest.h
-unordered_set
--
-
 F:/repos/LeetCode-Daily/LeetCode/leetcode16/three_sum_closest.h
 vector
--
-
-F:/repos/LeetCode-Daily/LeetCode/leetcode17/letter_combinations.cpp
-letter_combinations.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode17/letter_combinations.h
-unordered_map
--
-iostream
 -
 
 F:/repos/LeetCode-Daily/LeetCode/leetcode17/letter_combinations.h
@@ -108,10 +46,8 @@ string
 vector
 -
 
-F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.cpp
-add_two_numbers.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.h
-cmath
+F:/repos/LeetCode-Daily/LeetCode/leetcode19/remove_last_of_link.h
+iostream
 -
 
 F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.h
@@ -120,79 +56,25 @@ iostream
 vector
 -
 
-F:/repos/LeetCode-Daily/LeetCode/leetcode3/find_longest_string.cpp
-find_longest_string.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode3/find_longest_string.h
-iostream
--
-map
--
-
 F:/repos/LeetCode-Daily/LeetCode/leetcode3/find_longest_string.h
 string
--
-
-F:/repos/LeetCode-Daily/LeetCode/leetcode4/median_two_arrays.cpp
-median_two_arrays.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode4/median_two_arrays.h
-iostream
 -
 
 F:/repos/LeetCode-Daily/LeetCode/leetcode4/median_two_arrays.h
 vector
 -
 
-F:/repos/LeetCode-Daily/LeetCode/leetcode5/longest_palindromic_string.cpp
-longest_palindromic_string.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode5/longest_palindromic_string.h
-iostream
--
-cstring
--
-
 F:/repos/LeetCode-Daily/LeetCode/leetcode5/longest_palindromic_string.h
 string
--
-
-F:/repos/LeetCode-Daily/LeetCode/leetcode6/zigzag_conversion.cpp
-zigzag_conversion.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode6/zigzag_conversion.h
-iostream
 -
 
 F:/repos/LeetCode-Daily/LeetCode/leetcode6/zigzag_conversion.h
 string
 -
 
-F:/repos/LeetCode-Daily/LeetCode/leetcode7/reverse_integer.cpp
-reverse_integer.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode7/reverse_integer.h
-vector
--
-iostream
--
-cmath
--
-
 F:/repos/LeetCode-Daily/LeetCode/leetcode7/reverse_integer.h
 
-F:/repos/LeetCode-Daily/LeetCode/leetcode8/atoi.cpp
-atoi.h
 F:/repos/LeetCode-Daily/LeetCode/leetcode8/atoi.h
-iostream
--
-cmath
--
-
-F:/repos/LeetCode-Daily/LeetCode/leetcode8/atoi.h
-string
--
-
-F:/repos/LeetCode-Daily/LeetCode/leetcode9/palindrome_number.cpp
-palindrome_number.h
-F:/repos/LeetCode-Daily/LeetCode/leetcode9/palindrome_number.h
-iostream
--
 string
 -
 
@@ -247,4 +129,6 @@ leetcode16/three_sum_closest.h
 F:/repos/LeetCode-Daily/LeetCode/leetcode16/three_sum_closest.h
 leetcode17/letter_combinations.h
 F:/repos/LeetCode-Daily/LeetCode/leetcode17/letter_combinations.h
+leetcode19/remove_last_of_link.h
+F:/repos/LeetCode-Daily/LeetCode/leetcode19/remove_last_of_link.h
 

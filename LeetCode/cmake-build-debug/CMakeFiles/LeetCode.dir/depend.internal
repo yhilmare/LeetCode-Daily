@@ -28,6 +28,9 @@ CMakeFiles/LeetCode.dir/leetcode16/three_sum_closest.cpp.obj
 CMakeFiles/LeetCode.dir/leetcode17/letter_combinations.cpp.obj
  F:/repos/LeetCode-Daily/LeetCode/leetcode17/letter_combinations.cpp
  F:/repos/LeetCode-Daily/LeetCode/leetcode17/letter_combinations.h
+CMakeFiles/LeetCode.dir/leetcode19/remove_last_of_link.cpp.obj
+ F:/repos/LeetCode-Daily/LeetCode/leetcode19/remove_last_of_link.cpp
+ F:/repos/LeetCode-Daily/LeetCode/leetcode19/remove_last_of_link.h
 CMakeFiles/LeetCode.dir/leetcode2/add_two_numbers.cpp.obj
  F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.cpp
  F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.h
@@ -62,6 +65,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj
  F:/repos/LeetCode-Daily/LeetCode/leetcode15/three_sum.h
  F:/repos/LeetCode-Daily/LeetCode/leetcode16/three_sum_closest.h
  F:/repos/LeetCode-Daily/LeetCode/leetcode17/letter_combinations.h
+ F:/repos/LeetCode-Daily/LeetCode/leetcode19/remove_last_of_link.h
  F:/repos/LeetCode-Daily/LeetCode/leetcode2/add_two_numbers.h
  F:/repos/LeetCode-Daily/LeetCode/leetcode3/find_longest_string.h
  F:/repos/LeetCode-Daily/LeetCode/leetcode4/median_two_arrays.h
