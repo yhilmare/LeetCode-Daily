@@ -40,7 +40,8 @@ void three_sum();
 
 int main() {
     using namespace std;
-
+    double *s = NULL;
+    cout << sizeof(double) << endl;
 }
 
 void three_sum_longest(){
