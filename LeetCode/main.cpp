@@ -23,6 +23,7 @@
 #include "leetcode16/three_sum_closest.h"
 #include "leetcode17/letter_combinations.h"
 #include "leetcode19/remove_last_of_link.h"
+#include <pthread.h>
 
 void twoSum();
 void add_two_sums();
@@ -40,8 +41,8 @@ void three_sum();
 
 int main() {
     using namespace std;
-    double *s = NULL;
-    cout << sizeof(double) << endl;
+
+
 }
 
 void three_sum_longest(){
